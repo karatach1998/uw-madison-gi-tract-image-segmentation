@@ -1,0 +1,10 @@
+opencv-python
+matplotlib
+numpy
+pandas
+torch
+tensorboard
+seaborn
+wandb
+clearml
+tqdm
